@@ -1,0 +1,7 @@
+C:\Users\Андрей\Source\Repos\XMLparcer\XMLparcer\bin\Debug\XMLparcer.exe.config
+C:\Users\Андрей\Source\Repos\XMLparcer\XMLparcer\bin\Debug\XMLparcer.exe
+C:\Users\Андрей\Source\Repos\XMLparcer\XMLparcer\bin\Debug\XMLparcer.pdb
+C:\Users\Андрей\Source\Repos\XMLparcer\XMLparcer\obj\Debug\XMLparcer.csprojAssemblyReference.cache
+C:\Users\Андрей\Source\Repos\XMLparcer\XMLparcer\obj\Debug\XMLparcer.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Source\Repos\XMLparcer\XMLparcer\obj\Debug\XMLparcer.exe
+C:\Users\Андрей\Source\Repos\XMLparcer\XMLparcer\obj\Debug\XMLparcer.pdb
